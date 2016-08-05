@@ -6,45 +6,45 @@ Database file #1: bib.bib
 Warning--empty journal in Morgan:2016ud
 Warning--empty publisher in RCoreTeam:2014wf
 Warning--empty institution in Singh:2015uf
-You've used 86 entries,
+You've used 85 entries,
             1935 wiz_defined-function locations,
-            1034 strings with 17875 characters,
-and the built_in function-call counts, 34298 in all, are:
-= -- 3435
-> -- 1262
+            1029 strings with 17675 characters,
+and the built_in function-call counts, 33869 in all, are:
+= -- 3392
+> -- 1244
 < -- 68
-+ -- 407
-- -- 407
-* -- 2919
-:= -- 5918
-add.period$ -- 265
-call.type$ -- 86
-change.case$ -- 612
-chr.to.int$ -- 86
-cite$ -- 89
-duplicate$ -- 1300
-empty$ -- 2480
-format.name$ -- 541
-if$ -- 6731
++ -- 401
+- -- 401
+* -- 2878
+:= -- 5844
+add.period$ -- 262
+call.type$ -- 85
+change.case$ -- 604
+chr.to.int$ -- 85
+cite$ -- 88
+duplicate$ -- 1286
+empty$ -- 2450
+format.name$ -- 534
+if$ -- 6649
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 95
-newline$ -- 432
-num.names$ -- 269
-pop$ -- 491
+missing$ -- 94
+newline$ -- 427
+num.names$ -- 266
+pop$ -- 485
 preamble$ -- 1
-purify$ -- 624
+purify$ -- 616
 quote$ -- 0
-skip$ -- 1009
+skip$ -- 999
 stack$ -- 0
-substring$ -- 2666
-swap$ -- 169
+substring$ -- 2629
+swap$ -- 168
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 492
+type$ -- 486
 warning$ -- 3
-while$ -- 314
+while$ -- 310
 width$ -- 0
-write$ -- 1116
+write$ -- 1103
 (There were 3 warnings)

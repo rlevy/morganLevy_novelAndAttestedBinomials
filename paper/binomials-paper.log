@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 AUG 2016 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 AUG 2016 14:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,10 +432,10 @@ Package pdftex.def Info: spr-attested-model.pdf used on input line 681.
 ] [32 <./spr-attested-model.pdf>] [33] [34]
 [35]) [36] (./binomials-paper.aux) ) 
 Here is how much of TeX's memory you used:
- 4027 strings out of 493089
- 54552 string characters out of 6134842
- 126567 words of memory out of 5000000
- 7405 multiletter control sequences out of 15000+600000
+ 4024 strings out of 493089
+ 54489 string characters out of 6134842
+ 126534 words of memory out of 5000000
+ 7402 multiletter control sequences out of 15000+600000
  12001 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,18n,34p,2309b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -457,7 +457,7 @@ mti7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.
 pfb>
-Output written on binomials-paper.pdf (36 pages, 1950147 bytes).
+Output written on binomials-paper.pdf (36 pages, 1949752 bytes).
 PDF statistics:
  1035 PDF objects out of 1200 (max. 8388607)
  769 compressed objects within 8 object streams
