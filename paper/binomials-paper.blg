@@ -1,49 +1,50 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: binomials-paper.aux
 The style file: apalike.bst
 Database file #1: bib.bib
+Warning--empty journal in Morgan:2016ud
 Warning--empty publisher in RCoreTeam:2014wf
 Warning--empty institution in Singh:2015uf
-You've used 80 entries,
+You've used 86 entries,
             1935 wiz_defined-function locations,
-            1000 strings with 16844 characters,
-and the built_in function-call counts, 31967 in all, are:
-= -- 3203
-> -- 1181
-< -- 61
-+ -- 383
-- -- 383
-* -- 2734
-:= -- 5523
-add.period$ -- 247
-call.type$ -- 80
-change.case$ -- 574
-chr.to.int$ -- 80
-cite$ -- 82
-duplicate$ -- 1200
-empty$ -- 2307
-format.name$ -- 503
-if$ -- 6259
+            1034 strings with 17875 characters,
+and the built_in function-call counts, 34298 in all, are:
+= -- 3435
+> -- 1262
+< -- 68
++ -- 407
+- -- 407
+* -- 2919
+:= -- 5918
+add.period$ -- 265
+call.type$ -- 86
+change.case$ -- 612
+chr.to.int$ -- 86
+cite$ -- 89
+duplicate$ -- 1300
+empty$ -- 2480
+format.name$ -- 541
+if$ -- 6731
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 88
-newline$ -- 403
-num.names$ -- 249
-pop$ -- 456
+missing$ -- 95
+newline$ -- 432
+num.names$ -- 269
+pop$ -- 491
 preamble$ -- 1
-purify$ -- 585
+purify$ -- 624
 quote$ -- 0
-skip$ -- 928
+skip$ -- 1009
 stack$ -- 0
-substring$ -- 2502
-swap$ -- 151
-text.length$ -- 9
+substring$ -- 2666
+swap$ -- 169
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 458
-warning$ -- 2
-while$ -- 294
+type$ -- 492
+warning$ -- 3
+while$ -- 314
 width$ -- 0
-write$ -- 1040
-(There were 2 warnings)
+write$ -- 1116
+(There were 3 warnings)

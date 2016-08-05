@@ -16,6 +16,12 @@ Arnon, I. and Snider, N. (2010).
 \newblock {More than words: Frequency effects for multi-word phrases}.
 \newblock {\em Journal of Memory and Language}, 62(1):67--82.
 
+\bibitem[Baayen et~al., 2013]{Baayen:2013em}
+Baayen, R.~H., Hendrix, P., and Ramscar, M. (2013).
+\newblock {Sidestepping the Combinatorial Explosion: An Explanation of n-gram
+  Frequency Effects Based on Naive Discriminative Learning}.
+\newblock {\em Language and Speech}, 56(3):329--347.
+
 \bibitem[Baayen et~al., 2011]{Baayen:2011eh}
 Baayen, R.~H., Milin, P., Durdevic, D.~F., Hendrix, P., and Marelli, M. (2011).
 \newblock {An amorphous model for morphological processing in visual
@@ -27,6 +33,12 @@ Balota, D.~A., Yap, M.~J., Hutchison, K.~A., Kessler, B., Loftis, B., Neely,
   J.~H., Nelson, D.~L., Simpson, G.~B., and Treiman, R. (2007).
 \newblock {The English lexicon project}.
 \newblock {\em Behavior Research Methods}, 39:445--459.
+
+\bibitem[Bannard and Matthews, 2008]{Bannard:2008bm}
+Bannard, C. and Matthews, D. (2008).
+\newblock {Stored Word Sequences in Language Learning: The Effect of
+  Familiarity on Children's Repetition of Four-Word Combinations}.
+\newblock {\em Psychological Science}, 19(3):241--248.
 
 \bibitem[Barr et~al., 2013]{Barr:2013vf}
 Barr, D.~J., Levy, R., Scheepers, C., and Tily, H.~J. (2013).
@@ -83,6 +95,12 @@ Brants, T. and Franz, A. (2006).
 Bresnan, J., Cueni, A., Nikitina, T., and Baayen, R.~H. (2007).
 \newblock {Predicting the dative alternation}.
 \newblock {\em Cognitive Foundations of Interpretation}, pages 69--94.
+
+\bibitem[Bybee, 1985]{Bybee:1985ty}
+Bybee, J. (1985).
+\newblock {\em {Morphology}}.
+\newblock A Study of the Relation between Meaning and Form. John Benjamins
+  Publishing.
 
 \bibitem[Bybee, 1999]{Bybee:1999tm}
 Bybee, J. (1999).
@@ -153,12 +171,6 @@ Gahl, S. and Yu, A. C.~L. (2006).
   linguistics}.
 \newblock {\em The Linguistic Review}, 23(3):213--216.
 
-\bibitem[Garnsey et~al., 1997]{Garnsey:1997vo}
-Garnsey, S., Pearlmutter, N., Myers, E., and Lotocky, M. (1997).
-\newblock {The contributions of verb bias and plausibility to the comprehension
-  of temporarily ambiguous sentences}.
-\newblock {\em Journal of Memory and Language}, 37:58--93.
-
 \bibitem[Gibbs, 1990]{Gibbs:1990wh}
 Gibbs, R.~W. (1990).
 \newblock {Psycholinguistic studies on the conceptual basis of idiomaticity}.
@@ -192,6 +204,12 @@ Harrell, F.~E. (2001).
 \newblock {\em {Regression Modeling Strategies}}.
 \newblock Springer Series in Statistics. Springer New York, New York, NY.
 
+\bibitem[Hay and Bresnan, 2006]{Hay:2006dm}
+Hay, J. and Bresnan, J. (2006).
+\newblock {Spoken syntax: The phonetics of giving a hand in New Zealand
+  English}.
+\newblock {\em The Linguistic Review}, 23(3):1--29.
+
 \bibitem[Hofmeister et~al., 2011]{Hofmeister:2011vg}
 Hofmeister, P., Jaeger, T.~F., Arnon, I., Sag, I.~A., and Snider, N. (2011).
 \newblock {The source ambiguity problem}.
@@ -212,7 +230,7 @@ Inhoff, A.~W. and Rayner, K. (1986).
 \bibitem[Jaeger, 2006]{Jaeger:ts}
 Jaeger, T.~F. (2006).
 \newblock {Phonological Optimization and Syntactic Variation: The Case of
-  Optional that}.
+  Optional \emph{that}}.
 \newblock {\em Proceedings of the 32nd Annual Meeting of the Berkeley
   Linguistics Society BLS}.
 
@@ -260,7 +278,7 @@ Kirby, S., Dowman, M., and Griffiths, T.~L. (2007).
 Langacker, R.~W. (1987).
 \newblock {\em {Foundations of Cognitive Grammar}}, volume~1 of {\em
   Theoretical Prerequisites}.
-\newblock Stanford University Press.
+\newblock Stanford University Press, Stanford.
 
 \bibitem[Lee and Gibbons, 2007]{Lee:2007fm}
 Lee, M.-W. and Gibbons, J. (2007).
@@ -285,6 +303,12 @@ Lin, Y., Michel, J.-B., Aiden, E.~L., Orwant, J., Brockman, W., and Petrov, S.
 \newblock {\em Proceedings of the 50th Annual Meeting of the Association for
   Computational Linguistics}, pages 169--174.
 
+\bibitem[Linzen and Jaeger, 2015]{Linzen:2015jb}
+Linzen, T. and Jaeger, T.~F. (2015).
+\newblock {Uncertainty and Expectation in Sentence Processing: Evidence From
+  Subcategorization Distributions}.
+\newblock {\em Cognitive Science}, pages n/a--n/a.
+
 \bibitem[Malkiel, 1959]{Malkiel:1959vs}
 Malkiel, Y. (1959).
 \newblock {Studies in irreversible binomials}.
@@ -306,12 +330,23 @@ Mollin, S. (2012).
 \newblock {Revisiting binomial order in English}.
 \newblock {\em English Language and Linguistics}, 16(1):81--103.
 
+\bibitem[Morgan, 2016]{Morgan:2016ud}
+Morgan, E. (2016).
+\newblock {Generative and Item-Specific Knowledge of Language}.
+
 \bibitem[Morgan and Levy, 2015]{Morgan:2015to}
 Morgan, E. and Levy, R. (2015).
 \newblock {Modeling idiosyncratic preferences: How generative knowledge and
   expression frequency jointly determine language structure}.
 \newblock {\em Proceedings of the Thirty-Seventh Annual Conference of the
   Cognitive Science Society}, pages 1649--1654.
+
+\bibitem[Morgan and Levy, 2016]{Morgan:2016vu}
+Morgan, E. and Levy, R. (2016).
+\newblock {Frequency-Dependent Regularization in Iterated Learning}.
+\newblock In Roberts, S.~G., Cuskley, C., McCrohon, L., Barcel{\'o}-Coblijn,
+  L., Feh{\'e}r, O., and Verhoef, T., editors, {\em The Evolution of Language:
+  Proceedings of the 11th International Conference EVOLANG}.
 
 \bibitem[Nunberg et~al., 1994]{Nunberg:1994uc}
 Nunberg, G., Sag, I.~A., and Wasow, T. (1994).
@@ -332,8 +367,9 @@ Onishi, K.~H., Murphy, G.~L., and Bock, K. (2008).
 \bibitem[Pierrehumbert, 2000]{Pierrehumbert:2000wh}
 Pierrehumbert, J. (2000).
 \newblock {Exemplar dynamics: Word frequency, lenition and contrast}.
-\newblock In Bybee, J. and Hopper, P., editors, {\em Frequency effects and
-  emergent grammar}, pages 1--19. John Benjamins, Amsterdam.
+\newblock In Bybee, J. and Hopper, P., editors, {\em Frequency and the
+  Emergence of Linguistic Structure}, pages 137--157. John Benjamins,
+  Amsterdam.
 
 \bibitem[Pinker, 1991]{Pinker:1991vn}
 Pinker, S. (1991).
@@ -343,7 +379,7 @@ Pinker, S. (1991).
 \bibitem[Pinker, 2000]{Pinker:2000wf}
 Pinker, S. (2000).
 \newblock {\em {Words and Rules}}.
-\newblock The Ingredients of Language. Harper Perennial.
+\newblock The Ingredients of Language. Harper Perennial, New York.
 
 \bibitem[Pinker and Birdsong, 1979]{Pinker:1979tf}
 Pinker, S. and Birdsong, D. (1979).
