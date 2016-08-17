@@ -3,48 +3,47 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: binomials-paper.aux
 The style file: apalike.bst
 Database file #1: bib.bib
-Warning--empty journal in Morgan:2016ud
 Warning--empty publisher in RCoreTeam:2014wf
 Warning--empty institution in Singh:2015uf
 You've used 85 entries,
             1935 wiz_defined-function locations,
-            1029 strings with 17675 characters,
-and the built_in function-call counts, 33869 in all, are:
-= -- 3392
+            1030 strings with 17712 characters,
+and the built_in function-call counts, 33850 in all, are:
+= -- 3394
 > -- 1244
 < -- 68
 + -- 401
 - -- 401
-* -- 2878
-:= -- 5844
-add.period$ -- 262
+* -- 2880
+:= -- 5847
+add.period$ -- 263
 call.type$ -- 85
-change.case$ -- 604
+change.case$ -- 603
 chr.to.int$ -- 85
-cite$ -- 88
-duplicate$ -- 1286
-empty$ -- 2450
+cite$ -- 87
+duplicate$ -- 1281
+empty$ -- 2446
 format.name$ -- 534
-if$ -- 6649
+if$ -- 6640
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 94
-newline$ -- 427
+missing$ -- 93
+newline$ -- 428
 num.names$ -- 266
-pop$ -- 485
+pop$ -- 482
 preamble$ -- 1
 purify$ -- 616
 quote$ -- 0
-skip$ -- 999
+skip$ -- 992
 stack$ -- 0
-substring$ -- 2629
-swap$ -- 168
+substring$ -- 2632
+swap$ -- 165
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 486
-warning$ -- 3
-while$ -- 310
+warning$ -- 2
+while$ -- 311
 width$ -- 0
-write$ -- 1103
-(There were 3 warnings)
+write$ -- 1106
+(There were 2 warnings)

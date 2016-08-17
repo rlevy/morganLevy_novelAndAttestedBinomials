@@ -249,7 +249,7 @@ Johnson, K. (2006).
 Johnson, M., Griffiths, T.~L., and Goldwater, S. (2007).
 \newblock {Adaptor grammars: A framework for specifying compositional
   nonparametric Bayesian models}.
-\newblock {\em Advances in Neural Information Processing Systems}, 19:641.
+\newblock {\em Advances in Neural Information Processing Systems}, 19:641--648.
 
 \bibitem[Keller et~al., 2009]{Keller:2009wn}
 Keller, F., Gunasekharan, S., Mayo, N., and Corley, M. (2009).
@@ -301,7 +301,7 @@ Lin, Y., Michel, J.-B., Aiden, E.~L., Orwant, J., Brockman, W., and Petrov, S.
 Linzen, T. and Jaeger, T.~F. (2015).
 \newblock {Uncertainty and Expectation in Sentence Processing: Evidence From
   Subcategorization Distributions}.
-\newblock {\em Cognitive Science}, pages n/a--n/a.
+\newblock {\em Cognitive Science}, pages 1--30.
 
 \bibitem[Malkiel, 1959]{Malkiel:1959vs}
 Malkiel, Y. (1959).
@@ -326,7 +326,8 @@ Mollin, S. (2012).
 
 \bibitem[Morgan, 2016]{Morgan:2016ud}
 Morgan, E. (2016).
-\newblock {Generative and Item-Specific Knowledge of Language}.
+\newblock {\em {Generative and Item-Specific Knowledge of Language}}.
+\newblock PhD thesis, University of California, San Diego.
 
 \bibitem[Morgan and Levy, 2015]{Morgan:2015to}
 Morgan, E. and Levy, R. (2015).

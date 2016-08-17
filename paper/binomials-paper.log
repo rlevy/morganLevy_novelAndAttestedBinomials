@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  5 AUG 2016 14:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  16 AUG 2016 19:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -214,6 +214,20 @@ Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
 \c@@contsubnum=\count109
 \c@newflo@tctr=\count110
 )
+(/usr/local/texlive/2015/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks31
+\footnotemargin=\dimen119
+\c@pp@next@reset=\count111
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
 (/usr/local/texlive/2015/texmf-dist/tex/latex/preprint/fullpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip59
@@ -237,50 +251,50 @@ Package color Info: Driver file: pdftex.def on input line 142.
 \gline=\box41
 \glossglue=\skip60
 )
-\c@fnx=\count111
-\@xnumdepth=\count112
-\c@xnumi=\count113
-\c@xnumii=\count114
-\c@xnumiii=\count115
-\c@xnumiv=\count116
-\c@exx=\count117
-\c@rxnumi=\count118
-\c@rxnumii=\count119
-\c@rxnumiii=\count120
-\c@rxnumiv=\count121
+\c@fnx=\count112
+\@xnumdepth=\count113
+\c@xnumi=\count114
+\c@xnumii=\count115
+\c@xnumiii=\count116
+\c@xnumiv=\count117
+\c@exx=\count118
+\c@rxnumi=\count119
+\c@rxnumii=\count120
+\c@rxnumiii=\count121
+\c@rxnumiv=\count122
 \lcommentsep=\skip61
 )
-\c@constraint=\count122
+\c@constraint=\count123
 
 (./binomials-paper.aux)
 \openout1 = `binomials-paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
 
 (/usr/local/texlive/2015/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count123
-\scratchdimen=\dimen119
+\scratchcounter=\count124
+\scratchdimen=\dimen120
 \scratchbox=\box42
-\nofMPsegments=\count124
-\nofMParguments=\count125
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count126
-\MPscratchDim=\dimen120
-\MPnumerator=\count127
-\makeMPintoPDFobject=\count128
-\everyMPtoPDFconversion=\toks32
+\nofMPsegments=\count125
+\nofMParguments=\count126
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count127
+\MPscratchDim=\dimen121
+\MPnumerator=\count128
+\makeMPintoPDFobject=\count129
+\everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -329,12 +343,12 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for U+msa on input line 60.
+LaTeX Font Info:    Try loading font information for U+msa on input line 61.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 60.
+LaTeX Font Info:    Try loading font information for U+msb on input line 61.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -344,57 +358,57 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
  [4] [5]
 [6] [7] [8]
-Overfull \hbox (18.62285pt too wide) in paragraph at lines 200--212
+Overfull \hbox (18.62285pt too wide) in paragraph at lines 199--211
  [][] 
  []
 
 [9] <model-by-freq.pdf, id=46, 505.89pt x 433.62pt>
 File: model-by-freq.pdf Graphic file (type pdf)
  <use model-by-freq.pdf>
-Package pdftex.def Info: model-by-freq.pdf used on input line 235.
+Package pdftex.def Info: model-by-freq.pdf used on input line 234.
 (pdftex.def)             Requested size: 252.94437pt x 216.80946pt.
 
 [10 <./model-by-freq.pdf>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 262.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 261.
 
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 262.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 261.
 
 <just-judge-density-vertical.pdf, id=109, 317.5902pt x 496.6076pt>
 File: just-judge-density-vertical.pdf Graphic file (type pdf)
 
 <use just-judge-density-vertical.pdf>
-Package pdftex.def Info: just-judge-density-vertical.pdf used on input line 272
+Package pdftex.def Info: just-judge-density-vertical.pdf used on input line 271
 .
 (pdftex.def)             Requested size: 254.0725pt x 397.28662pt.
  [11] [12 <./just-judge-density-vertical.pdf>] <fc-novel.pdf, id=228, 505.89pt 
 x 433.62pt>
 File: fc-novel.pdf Graphic file (type pdf)
  <use fc-novel.pdf>
-Package pdftex.def Info: fc-novel.pdf used on input line 308.
+Package pdftex.def Info: fc-novel.pdf used on input line 307.
 (pdftex.def)             Requested size: 354.12057pt x 303.53192pt.
 
 <fc-attested.pdf, id=229, 505.89pt x 433.62pt>
 File: fc-attested.pdf Graphic file (type pdf)
  <use fc-attested.pdf>
-Package pdftex.def Info: fc-attested.pdf used on input line 313.
+Package pdftex.def Info: fc-attested.pdf used on input line 312.
 (pdftex.def)             Requested size: 354.12057pt x 303.53192pt.
  [13]
 [14 <./fc-novel.pdf>] [15 <./fc-attested.pdf>] [16]
 <spr-results.pdf, id=420, 505.89pt x 433.62pt>
 File: spr-results.pdf Graphic file (type pdf)
  <use spr-results.pdf>
-Package pdftex.def Info: spr-results.pdf used on input line 412.
+Package pdftex.def Info: spr-results.pdf used on input line 411.
 (pdftex.def)             Requested size: 440.12073pt x 377.24635pt.
 
 <spr-attested.pdf, id=421, 505.89pt x 433.62pt>
 File: spr-attested.pdf Graphic file (type pdf)
  <use spr-attested.pdf>
-Package pdftex.def Info: spr-attested.pdf used on input line 418.
+Package pdftex.def Info: spr-attested.pdf used on input line 417.
 (pdftex.def)             Requested size: 354.12057pt x 303.53192pt.
  [17]
 [18] [19 <./spr-results.pdf>] [20 <./spr-attested.pdf>] [21] [22] [23] [24]
@@ -403,42 +417,42 @@ File: constraint-activity-bar-graph.pdf Graphic file (type pdf)
 
 <use constraint-activity-bar-graph.pdf>
 Package pdftex.def Info: constraint-activity-bar-graph.pdf used on input line 5
-79.
+78.
 (pdftex.def)             Requested size: 404.71254pt x 372.35672pt.
  [27] [28 <./constraint-activity-bar-graph.pdf>]
-Overfull \hbox (8.12332pt too wide) in paragraph at lines 639--656
+Overfull \hbox (8.12332pt too wide) in paragraph at lines 638--655
  [] 
  []
 
 <spr-novel.pdf, id=706, 578.16pt x 433.62pt>
 File: spr-novel.pdf Graphic file (type pdf)
  <use spr-novel.pdf>
-Package pdftex.def Info: spr-novel.pdf used on input line 663.
+Package pdftex.def Info: spr-novel.pdf used on input line 662.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 <spr-attested-sc.pdf, id=707, 578.16pt x 433.62pt>
 File: spr-attested-sc.pdf Graphic file (type pdf)
  <use spr-attested-sc.pdf>
-Package pdftex.def Info: spr-attested-sc.pdf used on input line 673.
+Package pdftex.def Info: spr-attested-sc.pdf used on input line 672.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
 
 <spr-attested-model.pdf, id=708, 578.16pt x 433.62pt>
 File: spr-attested-model.pdf Graphic file (type pdf)
 
 <use spr-attested-model.pdf>
-Package pdftex.def Info: spr-attested-model.pdf used on input line 681.
+Package pdftex.def Info: spr-attested-model.pdf used on input line 680.
 (pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
  [29] (./binomials-paper.bbl [30 <./spr-novel.pdf>] [31 <./spr-attested-sc.pdf>
 ] [32 <./spr-attested-model.pdf>] [33] [34]
 [35]) [36] (./binomials-paper.aux) ) 
 Here is how much of TeX's memory you used:
- 4024 strings out of 493089
- 54489 string characters out of 6134842
- 126534 words of memory out of 5000000
- 7402 multiletter control sequences out of 15000+600000
+ 4131 strings out of 493089
+ 56204 string characters out of 6134842
+ 128243 words of memory out of 5000000
+ 7505 multiletter control sequences out of 15000+600000
  12001 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,18n,34p,2309b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,18n,34p,2958b,383s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2015/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2015/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type
@@ -457,7 +471,7 @@ mti7.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
 i8.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt1
 0.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.
 pfb>
-Output written on binomials-paper.pdf (36 pages, 1949752 bytes).
+Output written on binomials-paper.pdf (36 pages, 1950200 bytes).
 PDF statistics:
  1035 PDF objects out of 1200 (max. 8388607)
  769 compressed objects within 8 object streams
